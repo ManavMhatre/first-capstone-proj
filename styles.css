@@ -1,0 +1,62 @@
+body{
+
+    color: white;
+    background-color: rgb(1, 25, 46);
+    text-align: center;
+    border: 80px rgb(36, 205, 196);
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom:60px solid rgb(36, 205, 196);
+}
+
+h1{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bold
+}
+
+form{
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+h2{
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+input{
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+#input{
+    margin: 0;
+}
+
+p{
+
+    font-family: cursive;
+    font-weight: bolder;
+
+}
+
+#submit{
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 20px;
+    border-color: white;
+    height: 70px;
+}
+
+#firstname{
+    font-size: 20px;
+}
+
+#lastname{
+    font-size: 20px;
+}
+
+#email{
+    font-size: 20px;
+}
